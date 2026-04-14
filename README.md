@@ -26,13 +26,14 @@ In today’s fast-paced financial world, manually verifying loan applications is
 ---
 
 ## 🧠 How It Works  
-```mermaid
+
 graph TD
 A[Raw Data] --> B[Data Cleaning]
 B --> C[Feature Engineering]
 C --> D[Model Training]
 D --> E[Evaluation]
 E --> F[Prediction Output]
+
 🛠️ Tech Stack
 
 Language: Python 🐍 | Data Handling: Pandas, NumPy | Visualization: Matplotlib, Seaborn | ML Algorithms: Scikit-learn | Deployment: Flask / Streamlit
