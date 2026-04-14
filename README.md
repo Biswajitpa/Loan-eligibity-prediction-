@@ -91,9 +91,7 @@ python app.py
 ---
 
 ## 📂 Project Structure
-
 Loan-Eligibility-Prediction/
-│
 ├── data/
 ├── notebooks/
 ├── models/
@@ -101,7 +99,6 @@ Loan-Eligibility-Prediction/
 ├── utils.py
 ├── requirements.txt
 └── README.md
-
 ---
 
 ## 🌟 Future Enhancements
