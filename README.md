@@ -91,6 +91,7 @@ python app.py
 ---
 
 ## 📂 Project Structure
+
 Loan-Eligibility-Prediction/
 │
 ├── data/
