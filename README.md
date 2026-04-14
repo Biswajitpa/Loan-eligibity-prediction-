@@ -70,7 +70,7 @@ Raw Data → Data Cleaning → Feature Engineering → Model Training → Evalua
 ## 🚀 Getting Started
 
 ### Clone Repository
-git clone https://github.com/your-username/loan-eligibility-prediction.git  
+git clone https://github.com/Biswajitpa/Loan-eligibity-prediction-.git
 cd loan-eligibility-prediction  
 
 ### Install Requirements
