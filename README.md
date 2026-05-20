@@ -93,16 +93,7 @@ python app.py
 ## 📂 Project Structure
 
 
-Loan-Eligibility-Prediction/
-│
-├── data/
-├── notebooks/
-├── models/
-├── app.py
-├── utils.py
-├── requirements.txt
-└── README.md
-
+<img width="192" height="170" alt="image" src="https://github.com/user-attachments/assets/46aa0e2f-b6f8-4dde-97af-3471c2d693b4" />
 
 ## 🌟 Future Enhancements
 - Cloud Deployment (AWS / Render)
